@@ -19,6 +19,9 @@ Projeto desenvolvido com o objetivo de praticar a integração entre HTML e PHP.
 
 ---
 
+### 📸 Prints dos resultados:
+- [Ver imagem HTML](./imagem-HTML.png)
+- [Ver imagem PHP](./imagem-PHP.png)
 ## 🛠 Tecnologias utilizadas
 
 - HTML5
@@ -30,4 +33,13 @@ Projeto desenvolvido com o objetivo de praticar a integração entre HTML e PHP.
 1. Clone este repositório:
    ```bash
    git clone https://github.com/zailu-tech/Formulario.git
+
+---
+
+## 👩‍🎓Autora
+- Luiza 
+- Estudante de Análise e desenvolvimento de sistemas
+
+
+   
 
